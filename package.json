@@ -1,0 +1,57 @@
+{
+  "name": "tron-front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.13",
+    "@material-ui/core": "^4.11.3",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "bootstrap": "^4.6.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.0",
+    "react-dom": "^17.0.1",
+    "react-joyride": "^2.3.0",
+    "react-loading-overlay": "^1.0.1",
+    "react-native-loading-spinner-overlay": "^2.0.0",
+    "react-overlay-loader": "0.0.3",
+    "react-scripts": "4.0.2",
+    "react-spinners": "^0.10.6",
+    "react-use-cookie": "^1.2.1",
+    "tronweb": "^3.2.4",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "clsx": "^1.1.1",
+    "ethers": "^5.0.32",
+    "react-checkmark": "^1.4.0",
+    "react-minimal-pie-chart": "^8.2.0",
+    "react-toastify": "^7.0.3",
+    "recharts": "^2.0.8"
+  }
+}

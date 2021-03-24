@@ -1,0 +1,21 @@
+@media(min-width:1025px) and (max-width:1200px){
+	
+}
+
+@media(min-width:992px) and (max-width:1024px){
+	
+}
+
+@media(min-width:768px) and (max-width:991px){
+	
+}
+
+@media(min-width:448px) and (max-width:767px){
+	
+}
+
+@media(max-width:447px){
+	.main-wrapper{width: 300px;padding: 10px;}
+	.tabs-wrp .tab-content{padding: 20px 0px;}
+	.Textfield-wrp ul li h5{font-size: 13px;}
+}
